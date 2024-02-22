@@ -5,9 +5,8 @@ I graduated from Kookmin University in February 2024.
 I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 
-### 
 ### 🏆 Contest
-| Date    | Contest name                                    | Administration | Award | link |
+| Date       | Contest name                                    | Administration | Award | link |
 | ------------- | ---------------------------------------------- |--------------|--------------|--------------|
 |  2023-12-20  |    하나 디지털 파워 온 프로젝트              |    하나금융그룹        |  2rd   |   |
 | 2023-10-12   |    신.빅.해 (신한금융그룹 빅데이터 해커톤)              |   신한라이프        |  2rd   |   |
