@@ -11,7 +11,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | <small>2023-10-12</small>   | <small>신.빅.해 (신한금융그룹 빅데이터 해커톤)</small> | <small>신한라이프</small>              | <small>2nd</small>   | <small>[link](#)</small> | <small>[url](https://bigdatahub.ac.kr/information/notice?bbs_section=view&idx=60)</small> |
 | <small>2023-09-08</small>   | <small>TECH4GOOD 해커톤</small>                         | <small>SKT-하나금융그룹</small>     | <small>4th</small>   | <small>[link](#)</small> | <small>[url](https://www.yna.co.kr/view/AKR20230914049000017)</small> |
 | <small>2023-07-07</small>   | <small>CO-Data Station 데이터톤</small>                | <small>Deep Skill</small>                | <small>2nd</small>   | <small>[link](#)</small> |  |
-| <small>2022-12-16</small>   | <small>KML 2022F Final Exam</small>                     | <small>Kaggle</small>                     | <small>1st/40</small>| <small>[link](#)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f-exam)</small> |
+| <small>2022-12-16</small>   | <small>KML 2022F Final Exam</small>                     | <small>Kaggle</small>                     | <small>1st / 40</small>| <small>[link](#)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f-exam)</small> |
 | <small>2022-11-25</small>   | <small>KML Challenge 2022F</small>                      | <small>Kaggle</small>                     | <small>3rd / 16</small>| <small>[link](#)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f)</small> |
 | <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[link](#)</small> | <small>[url](https://www.all-con.co.kr/view/contest/480140)</small> |
 
