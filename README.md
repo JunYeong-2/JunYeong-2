@@ -2,7 +2,7 @@
 Hello, I'm Lee Junyoung. 
 I graduated from Kookmin University in February 2024. 
 
-I am interested in data analysis, machine learning, and deep learning.
+I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 <!--
 **JunYeong-2/JunYeong-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
