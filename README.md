@@ -6,10 +6,10 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 
 ### 🏆 Contest
-|제목|내용|설명|
-|제목|내용|설명|
-|제목|내용|설명|
-|제목|내용|설명|
+| Command    | Description                                    |
+| ---------- | ---------------------------------------------- |
+| git status | List all new or modified files                 |
+| git diff   | Show file differences that haven't been staged |
 
 <!--
 **JunYeong-2/JunYeong-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
