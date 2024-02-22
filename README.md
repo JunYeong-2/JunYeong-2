@@ -20,7 +20,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 ### 📄 Certificate & Language
 | Date       | Name                               | Administration           |
 |------------|------------------------------------|--------------------------|
-| 2024-02-07 | TOEIC Speaking Test                          | 한국 TOEIC 위원회         |
+| 2024-02-07 | TOEIC Speaking Test - IH (150)                          | 한국 TOEIC 위원회         |
 | 2023-12-22 | 빅데이터분석기사                          | 한국데이터산업진흥원         |
 | 2023-10-06 | SQL 개발자 (SQLD)                          | 한국데이터산업진흥원         |
 | 2023-09-15 | 데이터분석준전문가 (ADSP)                          | 한국데이터산업진흥원         |
