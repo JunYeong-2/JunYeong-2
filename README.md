@@ -6,8 +6,8 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 
 ### 🏆 Contest
-| Command    | Description                                    |
-| ---------- | ---------------------------------------------- |
+| Date    | Contest name                                    | Administration | Award |
+| ---------- | ---------------------------------------------- |----------------------------------------------|
 | git status | List all new or modified files                 |
 | git diff   | Show file differences that haven't been staged |
 
