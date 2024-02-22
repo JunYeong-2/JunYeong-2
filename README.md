@@ -20,14 +20,14 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 ### 👨‍💻 Project
 | Date       | Subject             | Administration     | Link        |
 |------------|---------------------|--------------------|-------------|
-| 2023-9~12  | 논문 투고            | Admin B            | [Link B](#) |
-| 2023-08    | Text-to-Image       | Admin C            | [Link C](#) |
-| 2023-07    | PBL 부트캠프         | Admin D            | [Link D](#) |
-| 2023-01~06 | Intern Private      | Admin E            | [Link E](#) |
-| 2023-01~06 | Intern Public       | Admin F            | [Link F](#) |
-| 2022-11    | ML Pipeline 구축    | Admin G            | [Link G](#) |
-| 2023-10    | ML Encoding         | Admin G            | [Link G](#) |
-| 2022-10    | ML Ensemble         | Admin G            | [Link G](#) |
+| 2023-9~12  | 논문 투고            | [산업AI:캡스톤디자인]            | [Link B](#) |
+| 2023-08    | Text-to-Image       | [OUTTA 부트캠프]            | [Link C](#) |
+| 2023-07    | PBL 부트캠프         | [PBL 부트캠프]            | [Link D](#) |
+| 2023-01~06 | Intern Private      | [(주)베스텔라랩]            | [Link E](#) |
+| 2023-01~06 | Intern Public       | [(주)베스텔라랩]            | [Link F](#) |
+| 2022-11    | ML Pipeline 구축    | [머신러닝]            | [Link G](#) |
+| 2023-10    | ML Encoding         | [머신러닝]            | [Link G](#) |
+| 2022-10    | ML Ensemble         | [머신러닝]            | [Link G](#) |
 
 
 
