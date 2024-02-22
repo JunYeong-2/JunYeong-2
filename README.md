@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, I'm Junyoung Lee. 
 I graduated from Kookmin University in February 2024. 
-I am interested in Data Analysis, Machine Learning, and Deep Learning.
+I am interested in Data Analysis, Machine Learning, and Deep Learning.<br>
 
 
 ### 🏆 Contest
@@ -15,7 +15,18 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | <small>2022-11-25</small>   | <small>KML Challenge 2022F</small>                      | <small>Kaggle</small>                     | <small>3rd/16</small>| <small>[link](#)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f)</small> |
 | <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[link](#)</small> | <small>[url](https://www.all-con.co.kr/view/contest/480140)</small> |
 
-### 📄
+
+
+### 📄 Certificate & Language
+### 🏆 Contest
+| Date       | Name                               | Administration           |
+|------------|------------------------------------|--------------------------|
+| 2023-12-20 | Contest A                          | Administration A         |
+| 2023-10-12 | Contest B                          | Administration B         |
+| 2023-09-08 | Contest C                          | Administration C         |
+| 2023-07-07 | Contest D                          | Administration D         |
+| 2023-05-05 | Contest E                          | Administration E         |
+
 
 
 
