@@ -25,7 +25,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | 2023-07    | PBL 부트캠프         | 코드스테이츠            | [Notion](https://charming-sapphire-342.notion.site/PBL-9539e68ceec440fcbb7b22f13d396be0?pvs=4) |
 | 2023-01~06 | Intern Private      | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Private) |
 | 2023-01~06 | Intern Public       | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Public) |
-| 2022-11    | ML Pipeline 구축    | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Pipeline) |
+| 2022-11    | ML Feature Engineering & Pipeline 구축    | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Pipeline) |
 | 2022-10    | ML Encoding         | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Encoding) |
 | 2022-10    | ML Ensemble         | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Ensemble) |
 <br>
