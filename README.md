@@ -28,9 +28,6 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | 2022-11    | ML Pipeline 구축    | 머신러닝            | [Code](#) |
 | 2022-10    | ML Encoding         | 머신러닝            | [Code](#) |
 | 2022-10    | ML Ensemble         | 머신러닝            | [Code](#) |
-
-
-
 <br>
 
 ### 📄 Certificate & Language
@@ -43,7 +40,9 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | 2022-03-11 | 컴퓨터활용능력 1급                          | 대한상공회의소         |
 | 2021-12-17 | DIAT-프리젠테이션 고급                          | 한국정보통신진흥협회         |
 | 2021-12-17 | DIAT-스프레드시트 고급                          | 한국정보통신진흥협회         |
+<br>
 
+### 🏢 Education
 
 
 
