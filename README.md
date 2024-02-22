@@ -17,7 +17,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[code](https://github.com/JunYeong-2/Data_Campus)</small> | <small>[url](https://www.all-con.co.kr/view/contest/480140)</small> |
 <br>
 
-### 👨‍💻 💻🖥Project
+### 💻 Project
 | Date       | Subject             | Administration     | Link        |
 |------------|---------------------|--------------------|-------------|
 | 2023-9~12  | 산업AI:캡스톤디자인 - 논문 투고            | 대한산업공학회            | [Code](https://github.com/JunYeong-2/Capstone_Design) |
