@@ -13,7 +13,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | <small>2023-07-07</small>   | <small>CO-Data Station 데이터톤</small>                | <small>Deep Skill</small>                | <small>2nd</small>   | <small>[link](#)</small> |  |
 | <small>2022-12-16</small>   | <small>KML 2022F Final Exam</small>                     | <small>Kaggle</small>                     | <small>1st/40</small>| <small>[link](#)</small> | <small>[link]([#](https://www.kaggle.com/competitions/kml2022f-exam))</small> |
 | <small>2022-11-25</small>   | <small>KML Challenge 2022F</small>                      | <small>Kaggle</small>                     | <small>3rd/16</small>| <small>[link](#)</small> | <small>[link](https://www.kaggle.com/competitions/kml2022f)</small> |
-| <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[link](#)</small> | <small>[link]([#](https://www.all-con.co.kr/view/contest/480140))</small> |
+| <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[link](#)</small> | <small>[link]((https://www.all-con.co.kr/view/contest/480140))</small> |
 
 
 
