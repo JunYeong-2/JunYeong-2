@@ -21,7 +21,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | Date       | Subject             | Administration     | Link        |
 |------------|---------------------|--------------------|-------------|
 | 2023-9~12  | 논문 투고            | [산업AI:캡스톤디자인]            | [Link B](#) |
-| 2023-08    | Text-to-Image       | [OUTTA 부트캠프]            | [Link C](#) |
+| 2023-08    | Text-to-Image Project       | [OUTTA 부트캠프]            | [Link C](#) |
 | 2023-07    | PBL 부트캠프         | [PBL 부트캠프]            | [Link D](#) |
 | 2023-01~06 | Intern Private      | [(주)베스텔라랩]            | [Link E](#) |
 | 2023-01~06 | Intern Public       | [(주)베스텔라랩]            | [Link F](#) |
