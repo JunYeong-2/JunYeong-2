@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😀 About ME
 Hello, I'm Junyoung Lee. 
 I graduated from Kookmin University in February 2024. <br>
 I am interested in Data Analysis, Machine Learning, and Deep Learning.
@@ -56,6 +56,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 
 <!--
+Hi there 👋
 ### 🏆 Contest
 | Date       | Contest name                                    | Administration | Award | link |
 | ------------- | ---------------------------------------------- |--------------|--------------|--------------|
