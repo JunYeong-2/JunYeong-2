@@ -6,13 +6,15 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 
 ### 🏆 Contest
-| Date    | Contest name                                    | Administration | Award |
-| ---------- | ---------------------------------------------- |--------------|--------------|
-|    |                  |            |     |
-|    |                  |           |     |
-
-
-
+| Date    | Contest name                                    | Administration | Award | link |
+| ---------- | ---------------------------------------------- |--------------|--------------|--------------|
+|    |                  |            |     |   |
+|    |                  |           |     |   |
+|    |                  |            |     |   |
+|    |                  |           |     |   |
+|    |                  |            |     |   |
+|    |                  |           |     |   |
+|  2022-08-31  |  데이터청년캠퍼스                | 한국데이터산업진흥원(상명대학교)           |  2nd   | |
 
 <!--
 **JunYeong-2/JunYeong-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
