@@ -18,16 +18,17 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br>
 
 ### 👨‍💻 Project
-| Date       | Subject       | Administration     | Skills | Link |
-|------------|---------------|--------------------|--------|------|
-| 2023-9~12 | 논문 투고     | Admin B            | Skill B | [Link B](#) |
-| 2023-08 | Text-to-Image     | Admin C            | Skill C | [Link C](#) |
-| 2023-07 | PBL 부트캠프     | Admin D            | Skill D | [Link D](#) |
-| 2023-01~06 | Intern Private     | Admin E            | Skill E | [Link E](#) |
-| 2023-01~06 | Intern Public    | Admin F            | Skill F | [Link F](#) |
-| 2022-11 | ML Pipeline 구축     | Admin G            | Skill G | [Link G](#) |
-| 2023-10 | ML Encoding     | Admin G            | Skill G | [Link G](#) |
-| 2022-10 | ML Ensemble     | Admin G            | Skill G | [Link G](#) |
+| Date       | Subject             | Administration     | Link        |
+|------------|---------------------|--------------------|-------------|
+| 2023-9~12  | 논문 투고            | Admin B            | [Link B](#) |
+| 2023-08    | Text-to-Image       | Admin C            | [Link C](#) |
+| 2023-07    | PBL 부트캠프         | Admin D            | [Link D](#) |
+| 2023-01~06 | Intern Private      | Admin E            | [Link E](#) |
+| 2023-01~06 | Intern Public       | Admin F            | [Link F](#) |
+| 2022-11    | ML Pipeline 구축    | Admin G            | [Link G](#) |
+| 2023-10    | ML Encoding         | Admin G            | [Link G](#) |
+| 2022-10    | ML Ensemble         | Admin G            | [Link G](#) |
+
 
 
 <br>
