@@ -14,7 +14,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | <small>2023-07-07</small>   | <small>CO-Data Station 데이터톤</small>                | <small>Deep Skill</small>                | <small>2nd</small>   | <small>[code](https://github.com/JunYeong-2/CoData_Hackathon)</small> |  |
 | <small>2022-12-16</small>   | <small>KML 2022F Final Exam</small>                     | <small>Kaggle</small>                     | <small>1st/40</small>| <small>[code](https://github.com/JunYeong-2/KML_2022F_Final_Exam)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f-exam)</small> |
 | <small>2022-11-25</small>   | <small>KML Challenge 2022F</small>                      | <small>Kaggle</small>                     | <small>3rd/16</small>| <small>[code](https://github.com/JunYeong-2/KML_Challenge_2022F)</small> | <small>[url](https://www.kaggle.com/competitions/kml2022f)</small> |
-| <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[code](#)</small> | <small>[url](https://www.all-con.co.kr/view/contest/480140)</small> |
+| <small>2022-08-31</small>   | <small>데이터청년캠퍼스</small>                           | <small>한국데이터산업진흥원 (상명대학교)</small>| <small>2nd</small>   | <small>[code](https://github.com/JunYeong-2/Data_Campus)</small> | <small>[url](https://www.all-con.co.kr/view/contest/480140)</small> |
 <br>
 
 ### 👨‍💻 Project
