@@ -5,6 +5,12 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br><br>
 
 
+### Stacks
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+<br>
+
 ### 🏆 Contest
 | Date         | Contest name                               | Administration           | Award | Code | URL |
 |--------------|--------------------------------------------|--------------------------|-------|------|------|
