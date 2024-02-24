@@ -7,7 +7,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/adsads"/>
+<img src="https://img.shields.io/badge/adsads-black"/>
 
 <br>
 
