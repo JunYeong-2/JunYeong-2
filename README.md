@@ -4,13 +4,6 @@ I graduated from Kookmin University in February 2024. <br>
 I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br><br>
 
-
-### Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/adsads-black"/>
-
-<br>
-
 ### 🏆 Contest
 | Date         | Contest name                               | Administration           | Award | Code | URL |
 |--------------|--------------------------------------------|--------------------------|-------|------|------|
