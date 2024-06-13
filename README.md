@@ -4,6 +4,14 @@ I graduated from Kookmin University in February 2024. <br>
 I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br><br>
 
+### Work Experience
+| Date         |                                | The name of the company           | URL |
+|--------------|--------------------------------------------|--------------------------|-------|
+| 2024/04~ | Employee      | KCB(코리아크레딧뷰로)            | [Code] |
+| 2023/01~06 | Intern Private      | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Private) |
+| 2023/01~06 | Intern Public       | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Public) |
+<br><br>
+
 ### 🏆 Contest
 | Date         | Contest name                               | Administration           | Award | Code | URL |
 |--------------|--------------------------------------------|--------------------------|-------|------|------|
@@ -22,8 +30,6 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | 2023/9~12  | 산업AI:캡스톤디자인 - 논문 투고 (Accepted)            | 대한산업공학회            | [Code](https://github.com/JunYeong-2/Capstone_Design) |
 | 2023/06~08    | Text-to-Image Project       | OUTTA 부트캠프            | [Code](https://github.com/JunYeong-2/Text-to-Image_project) |
 | 2023-07    | PBL 부트캠프         | 코드스테이츠            | [Notion](https://charming-sapphire-342.notion.site/PBL-9539e68ceec440fcbb7b22f13d396be0?pvs=4) |
-| 2023/01~06 | Intern Private      | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Private) |
-| 2023/01~06 | Intern Public       | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Public) |
 | 2022-11    | ML Feature Engineering & Pipeline 구축    | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Pipeline) |
 | 2022-10    | ML Encoding         | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Encoding) |
 | 2022-10    | ML Ensemble         | 머신러닝            | [Code](https://github.com/JunYeong-2/ML_Ensemble) |
