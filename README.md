@@ -10,7 +10,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 | 2024/04~ | Employee      | KCB(코리아크레딧뷰로)            | [Code] |
 | 2023/01~06 | Intern Private      | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Private) |
 | 2023/01~06 | Intern Public       | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Public) |
-<br><br>
+<br>
 
 ### 🏆 Contest
 | Date         | Contest name                               | Administration           | Award | Code | URL |
