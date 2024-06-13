@@ -4,7 +4,7 @@ I graduated from Kookmin University in February 2024. <br>
 I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br><br>
 
-### Work Experience
+### 💼 Work Experience
 | Date         |    Job Title   |    Position           | The name of the company           | URL |
 |--------------|--------------------------------------------|--------------------------|-------|-------|
 | 2024/04~Present | Employee    | Data Analyst  | KCB (코리아크레딧뷰로)            |  |
