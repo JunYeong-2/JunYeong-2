@@ -7,7 +7,7 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 ### Work Experience
 | Date         |    Job Title   |    Position           | The name of the company           | URL |
 |--------------|--------------------------------------------|--------------------------|-------|-------|
-| 2024/04~ | Employee    | Data Analyst  | KCB (코리아크레딧뷰로)            | [Code] |
+| 2024/04~Present | Employee    | Data Analyst  | KCB (코리아크레딧뷰로)            | [Code] |
 | 2023/01~06 | Intern    | AI Developer  | (주)베스텔라랩            | [Code](https://github.com/JunYeong-2/Intern_Public) |
 <br>
 
