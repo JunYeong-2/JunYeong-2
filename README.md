@@ -12,9 +12,9 @@ I am interested in Data Analysis, Machine Learning, and Deep Learning.
 <br>
 
 ### 📃 PAPER
-| Date       | Subject             | Administration     | Link        |
-|------------|---------------------|--------------------|-------------|
-| 2024/8  | 금융 특화 감정분석 모델과 딥러닝 시계열 예측 모델을 활용한 코스피 지수 예측            | 대한산업공학회            | [url](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079) |
+| Date       | Subject             | Administration     | Link        |Code         | 
+|------------|---------------------|--------------------|-------------|-------------|
+| 2024/8  | 금융 특화 감정분석 모델과 딥러닝 시계열 예측 모델을 활용한 코스피 지수 예측            | 대한산업공학회            | [url](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107079) | [Code](https://github.com/JunYeong-2/Capstone_Design) |
 <br>
 
 ### 🏆 Contest
